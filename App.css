@@ -1,0 +1,22 @@
+.app-container {
+  max-width: 600px;
+  margin: auto;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.vehicle-form input {
+  display: block;
+  margin: 10px 0;
+}
+
+.vehicle-form button {
+  margin-top: 10px;
+}
+
+.vehicle-list, .service-history {
+  margin-top: 20px;
+}
